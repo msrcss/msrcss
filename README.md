@@ -1,5 +1,6 @@
 ## Olá! Eu sou o Marcus Vinícius
 
+
 - 🌱 Estou aprendendo: Python, Html , Css e Js.
 - 😄 Pronomes: ele/dele
 - 😎 Buscando sempre aprender e nunca desistir!
@@ -7,7 +8,7 @@
 <div>
 <a href="https://github.com/msrcss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusvinicius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvinicius&layout=compact&langs_count=4&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvinicius&layout=compact&langs_count=4&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
