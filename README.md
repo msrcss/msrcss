@@ -1,4 +1,4 @@
-## Olá! Eu sou o Marcus Vinícius
+## Olá! Eu sou o Marcus Vinícius.
 
 
 - 🌱 Estou aprendendo: Python, Html , Css e Js.
